@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CYLastWindowPosition</key>
-	<string>{502, 159}</string>
+	<string>{644, 241}</string>
 	<key>ContentSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
@@ -19,7 +19,7 @@
 		</array>
 	</dict>
 	<key>ContentViewType</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>DeploymentOptions</key>
 	<dict>
 		<key>Destination</key>
@@ -43,6 +43,8 @@
 			<string>{{245, 0}, {760, 657}}</string>
 		</array>
 	</dict>
+	<key>MainWindowFrame</key>
+	<string>159 68 1004 678 0 0 1280 778 </string>
 	<key>NavigatorSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
@@ -76,7 +78,7 @@
 		<key>Objects view last selections</key>
 		<array>
 			<array>
-				<integer>2</integer>
+				<integer>0</integer>
 			</array>
 		</array>
 		<key>Visible StackLayout Views</key>
